@@ -1,4 +1,7 @@
 # STATISTICS
-Repository Containing the different Concepts of Statistics for data science and machine learning.
+Repository Containing the different Concepts of Statistics for data science and machine learning. This Repository includes Tests of Hypothesis such as One sample Z-tests, Two sample Z-tests, One sample T-tests, two sample T-tests, Z-propotion tests, Paired T-test, Unpaired T-tests, Chi square tests for goodness of fit & chi square tests for Independence, One-way Anova and Two-way Anova tests.
 # Contents.
-# 1. [Inferential Statistics and Hypothesis testing.](https://github.com/VikasHM66/STATISTICS/blob/main/STATS%20WEEK%2001.ipynb):
+  
+    - ## Statistics for Data science and Machine Learining.
+    
+    

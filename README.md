@@ -1,5 +1,5 @@
 # STATISTICS
-Repository Containing different Concepts of Statistics for data science and machine learning. This Repository includes Tests of Hypothesis such as One sample Z-test, Two sample Z-test, One sample T-test, Two sample T-test, Z-propotion test, Paired T-test, Unpaired T-test, Chi square test for goodness of fit & chi square tests for Independence, One-way Anova and Two-way Anova test and test to check normality of the data using shapiro test, and to check variances using Levene test.
+
 # Contents.
   
  - ### Statistics for Data science and Machine Learining.
